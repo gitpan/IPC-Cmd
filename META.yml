@@ -24,4 +24,4 @@ requires:
   Module::Load::Conditional: 0
   Params::Check: 0.20
   Test::More: 0
-version: 0.71_02
+version: 0.71_03

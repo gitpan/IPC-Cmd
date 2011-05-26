@@ -1,3 +1,7 @@
+Changes for 0.71_03 Thu May 26 13:41:00 BST 2011
+=================================================
+* Finally got the Win32 IPC::Open3 capturing properly.
+
 Changes for 0.71_02 Thu May 26 12:10:40 BST 2011
 =================================================
 * Missed some cleanup in the Win32 IPC::Open3 support
