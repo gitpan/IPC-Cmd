@@ -26,4 +26,4 @@ requires:
   Test::More: 0
 resources:
   repository: https://github.com/jib/ipc-cmd
-version: 0.74
+version: 0.76
